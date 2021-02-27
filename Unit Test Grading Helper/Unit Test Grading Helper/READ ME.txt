@@ -1,0 +1,3 @@
+In order to use this:
+1. Make sure you have the roster.txt in the appropriate place.
+2. Download the appropriate evalutaion documents from zybooks. Make sure you DO include the information about time-taken. Save as "attempt" with ANSI encoding. The default UTF encoding will give weird symbols instead of plain text.
