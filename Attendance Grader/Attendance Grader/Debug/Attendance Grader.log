@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\arnod\Documents\School 2.0\Comp Sci\2021.1 Spring\COSC 1430\COSC1430GradingAutomation\Attendance Grader\Attendance Grader\Source.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\arnod\Documents\School 2.0\Comp Sci\2021.1 Spring\COSC 1430\COSC1430GradingAutomation\Attendance Grader\Attendance Grader\Source.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\arnod\Documents\School 2.0\Comp Sci\2021.1 Spring\COSC 1430\COSC1430GradingAutomation\Attendance Grader\Attendance Grader\Source.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\arnod\Documents\School 2.0\Comp Sci\2021.1 Spring\COSC 1430\COSC1430GradingAutomation\Attendance Grader\Attendance Grader\Source.cpp(188,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\arnod\Documents\School 2.0\Comp Sci\2021.1 Spring\COSC 1430\COSC1430GradingAutomation\Attendance Grader\Attendance Grader\Source.cpp(200,20): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+  Generating Code...
+  Attendance Grader.vcxproj -> C:\Users\arnod\Documents\School 2.0\Comp Sci\2021.1 Spring\COSC 1430\COSC1430GradingAutomation\Attendance Grader\Debug\Attendance Grader.exe
