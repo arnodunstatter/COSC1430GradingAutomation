@@ -1,4 +1,0 @@
-In order to use this:
-1. Make sure you have the roster.txt in the appropriate place.
-2. Download the attendance files from teams. Save as "attendance" with ANSI encoding. The default UTF encoding will give weird symbols instead of plain text.
-3. Enter the start times for lab and the reconvene times and the amount of lee-way you're giving the students for joining late.
